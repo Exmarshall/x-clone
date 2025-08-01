@@ -3,6 +3,10 @@ import { Feather } from "@expo/vector-icons";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { useAuth } from "@clerk/clerk-expo";
 
+
+//Todo ADD search functionality and make it work
+
+
 const TabsLayout = () => {
   const insets = useSafeAreaInsets();
 
